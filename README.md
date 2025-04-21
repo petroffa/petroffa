@@ -12,8 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>|
+| Log Forwarding and Integration                | <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -49,7 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+-  <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>
 - SOC Automation Project
 
 <!--
