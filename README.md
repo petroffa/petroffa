@@ -43,9 +43,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="https://www.credly.com/badges/85dc5c0d-8def-4d0c-aae0-1544a1a74fe6/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/db541dc7-5b13-4be9-a08d-2bd750501da0/public_url"><img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /></a> (click me!)
+</div> 
 
 ## Projects
 - <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>
