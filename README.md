@@ -14,10 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>|
 | Log Forwarding and Integration                | <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>|
 | Suricata Rule Development                     | <a href="https://github.com/petroffa/SOP-Suricata-Rule-development/blob/main/README.md">Suricata SOP</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security Automation with Tines SOAR         | <a href="https://github.com/petroffa/Tines-SOAR-EDR/blob/main/README.md">Tines SOAR EDR Project</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/petroffa/Tines-SOAR-EDR/blob/main/README.md">Tines SOAR EDR Project</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/petroffa/Tines-SOAR-EDR/blob/main/README.md">Tines SOAR EDR Project</a>|
 
 <!-- ## Tools -->
 
@@ -50,6 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/petroffa/Emulated-SOC-SIEM-honeypot/blob/main/README.md">Emulated SOC+SIEM honeypot</a>
 - <a href="https://github.com/petroffa/SOP-Suricata-Rule-development/blob/main/README.md">Suricata SOP</a>
+- <a href="https://github.com/petroffa/Tines-SOAR-EDR/blob/main/README.md">Tines SOAR EDR Project</a>
 - SOC Automation Project
 
 <!--
